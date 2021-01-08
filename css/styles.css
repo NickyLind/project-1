@@ -17,3 +17,26 @@ img   {
   font-family: fantasy;
   padding-top: 50px;
 }
+
+.aboutme {
+  border: 10px solid rgb(70, 170, 193);
+  background-color: rgb(180, 187, 187);
+  font-family: fantasy;
+  width: fit-content;
+  display: block;
+  float: left;
+  margin-top: 100px;  
+}
+
+.aboutme  ul {
+font-size: 20px;
+}
+
+.aboutme h3 {
+  text-align: center;
+}
+
+.aboutme h2 {
+  text-align: center;
+}
+
