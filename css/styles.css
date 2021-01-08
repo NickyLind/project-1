@@ -1,0 +1,19 @@
+img   {
+  Width: 500px;
+  height: 600px;
+}
+
+.backgroundcolor  {
+  background-color: rgb(39, 91, 169);
+}
+
+.topbanner  {
+  color: aliceblue;
+  text-align: center;
+}
+
+.topbanner h1 {
+  font-size: 40px;
+  font-family: fantasy;
+  padding-top: 50px;
+}

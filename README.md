@@ -14,7 +14,7 @@
 
 ## Description
 
-_This application will showcase everything i have learned from my first week coding at Epicodus. It will include the knowledge I learned setting up a webpage with HTML and CSS, as well as creating and pushing to a GitHub repository.
+_This application will showcase everything i have learned from my first week coding at Epicodus. It will include the knowledge I learned setting up a webpage with HTML and CSS, as well as creating and pushing to a GitHub repository._
 
 ## Setup/Installation Requirements
 
