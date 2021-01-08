@@ -1,10 +1,4 @@
-img   {
-  Width: 500px;
-  height: 600px;
-  margin-right: auto;
-  
 
-}
 
 .backgroundcolor  {
   background-color: rgb(39, 91, 169);
@@ -75,3 +69,18 @@ img   {
   width: fit-content;
   
 }
+
+.leftmug  {
+float: left;
+}
+
+.rightmug {
+ float: left;
+ padding-left: 1850px;
+}
+
+.row  {
+  content:"";
+  clear: both;
+  display: table;
+  }
