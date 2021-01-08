@@ -1,7 +1,7 @@
 img   {
   Width: 500px;
   height: 600px;
-  margin-right: 400px;
+  margin-right: auto;
   
 
 }
@@ -43,3 +43,11 @@ font-size: 20px;
   text-align: center;
 }
 
+.background {
+  border: 10px solid rgb(70, 170, 193);
+  background-color: rgb(180, 187, 187);
+  font-family: fantasy;
+  width: 400px;
+  display: block;
+  float: right;
+  margin-top: 100px;  
