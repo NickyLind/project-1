@@ -23,6 +23,7 @@ _This application will showcase everything i have learned from my first week cod
 3. _Open the project-1 directory._
 4. _Click on Index.html to open the webpage_
 
+## Added notes: 
 
 ## Known Bugs
 
