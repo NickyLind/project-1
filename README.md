@@ -1,5 +1,8 @@
 # _project-1_
 
+## GitHub pages Link:
+_https://nickylind.github.io/project-1/_
+
 #### _This is my first project for Epicodus. It showcases what I have learned in my first week!_
 
 #### By _**Nick Lindau**_
@@ -22,8 +25,6 @@ _This application will showcase everything i have learned from my first week cod
 2. _Clone **project-1** onto the Desktop or your file of choice._
 3. _Open the project-1 directory._
 4. _Click on Index.html to open the webpage_
-
-## Added notes: 
 
 ## Known Bugs
 
