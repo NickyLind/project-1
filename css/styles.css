@@ -57,12 +57,12 @@
 }
 
 .projects {
- font-size: 20px;
- border: 10px solid rgb(70, 170, 193);
- background-color: rgb(180, 187, 187);
- list-style-position: inside;
- text-align: center;
- color: aliceblue;
+  font-size: 20px;
+  border: 10px solid rgb(70, 170, 193);
+  background-color: rgb(180, 187, 187);
+  list-style-position: inside;
+  text-align: center;
+  color: aliceblue;
 }
 
 .orderedlist  {
@@ -73,23 +73,8 @@
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.leftmug  {
-  float: left;
+.mugbanner {
+ margin-left: 500px;
+  
+  
 }
-
-.player {
-  float: left;
-  padding-left: 800px;
-
-}
-
-.rightmug {
- float: left;
- padding-left: 750px;
-}
-
-.row  {
-  content:"";
-  clear: both;
-  display: table;
-  }
